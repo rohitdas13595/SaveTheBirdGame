@@ -17,8 +17,8 @@ Once you reach to 200 points you winthe game.
 - Increasing variable speed
 
 ### Snapshots
-[<img align = "left" alt = "Starting Screen" width = "300px" src="https://user-images.githubusercontent.com/50266278/138504526-47434cdb-97f1-49c5-b008-b02c0dac11b2.jpeg" />]
-[<img align = "left" alt = "Gaming Screen" width = "300px" src="https://user-images.githubusercontent.com/50266278/138504720-16ce67fb-e9ff-453f-8427-d11603ea707f.jpeg" />]
+<img align = "left" alt = "Starting Screen" width = "500px" src="https://user-images.githubusercontent.com/50266278/138504526-47434cdb-97f1-49c5-b008-b02c0dac11b2.jpeg" />
+<img align = "left" alt = "Gaming Screen" width = "500px" src="https://user-images.githubusercontent.com/50266278/138504720-16ce67fb-e9ff-453f-8427-d11603ea707f.jpeg" />
 
 <br />
 <br />

@@ -16,6 +16,13 @@ Once you reach to 200 points you winthe game.
 - Touch control
 - Increasing variable speed
 
+### Snapshots
+![Landing Screen](https://user-images.githubusercontent.com/50266278/138504526-47434cdb-97f1-49c5-b008-b02c0dac11b2.jpeg)
+![Game Screen](https://user-images.githubusercontent.com/50266278/138504720-16ce67fb-e9ff-453f-8427-d11603ea707f.jpeg)
+
+
+
+
 ### Hi there, I'm Rohit
 
 ### I'm a Developer, Student and a lifelong Learner!!
